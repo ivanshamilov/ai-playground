@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Pyre type checker
+.pyre/
+
+# Testing cache
+.pytest_cache/
+.tox/
+.nox/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.env.*
+.venv
+venv/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.egg
+*.egg-info/
+dist/
+build/
+*.eggs
+
+# MyPy type check files
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+pylint.report
+
+# Bandit
+.bandit
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Local stack files
+.localstack/
+
+# macOS Finder tags
+._*
+
+# End of file
